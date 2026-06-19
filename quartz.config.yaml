@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: elif-x.github.io/quartz
+  baseUrl: elif-x.github.io
   ignorePatterns:
     - private
     - templates
